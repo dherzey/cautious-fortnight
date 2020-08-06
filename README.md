@@ -9,14 +9,13 @@ Main goal:
   + how each tweets relate by context
   + trends (eg. correlate tweets based on when the account who tweeted was produced?)
 
--------------
+
 I. File List
-
+-------------
   i. TwitterAnalysis.ipynb - a code that scrapes tweets specified by location, since_date, and until_data
--------------
+
 II. Design
-
-
 -------------
-III. Analysis
 
+III. Analysis
+-------------
