@@ -11,12 +11,12 @@ Main goal:
 
 -------------
 I. File List
--------------
+
   i. TwitterAnalysis.ipynb - a code that scrapes tweets specified by location, since_date, and until_data
 -------------
 II. Design
--------------
+
 
 -------------
 III. Analysis
--------------
+
