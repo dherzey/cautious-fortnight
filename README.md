@@ -1,4 +1,4 @@
-# cautious-fortnight
+# Twitter Text Analysis
 A repository for our first text analysis project.
 
 Main goal: 
