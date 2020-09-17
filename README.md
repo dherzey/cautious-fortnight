@@ -3,7 +3,7 @@ A repository for our first text analysis project.
 
 Main goal: 
   + scrape data from twitter with tags (tweet, location, date produced, account id?) from a single or multiple hashtags
-  + clean the data using tools (eg. SQL?, pandas)
+  + clean the data using tools (eg. pandas)
       - remove stop words in the tweets
   + detect most used words
   + how each tweets relate by context
